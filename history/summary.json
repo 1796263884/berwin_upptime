@@ -4,18 +4,20 @@
     "url": "https://agisignal-admin.tipost.com/",
     "icon": "https://icons.duckduckgo.com/ip3/agisignal-admin.tipost.com.ico",
     "slug": "ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2270,
-    "timeDay": 1466,
-    "timeWeek": 2370,
-    "timeMonth": 2218,
+    "timeDay": 0,
+    "timeWeek": 2400,
+    "timeMonth": 2225,
     "timeYear": 2270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-28": 0
+    }
   },
   {
     "name": "钛媒体正式官网",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4703,
-    "timeDay": 3352,
-    "timeWeek": 5080,
-    "timeMonth": 4658,
-    "timeYear": 4703,
+    "time": 4684,
+    "timeDay": 3116,
+    "timeWeek": 4822,
+    "timeMonth": 4624,
+    "timeYear": 4684,
     "dailyMinutesDown": {}
   }
 ]
