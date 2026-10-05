@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agisignal-admin.tipost.com.ico",
     "slug": "ai",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.29%",
+    "uptimeWeek": "98.54%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "99.78%",
-    "time": 2293,
-    "timeDay": 2445,
-    "timeWeek": 2571,
-    "timeMonth": 2305,
-    "timeYear": 2293,
+    "uptimeYear": "99.79%",
+    "time": 2294,
+    "timeDay": 2389,
+    "timeWeek": 2548,
+    "timeMonth": 2314,
+    "timeYear": 2294,
     "dailyMinutesDown": {
       "2026-09-28": 273
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4626,
-    "timeDay": 3219,
-    "timeWeek": 3716,
-    "timeMonth": 4474,
-    "timeYear": 4626,
+    "time": 4617,
+    "timeDay": 3777,
+    "timeWeek": 3811,
+    "timeMonth": 4441,
+    "timeYear": 4617,
     "dailyMinutesDown": {}
   }
 ]
